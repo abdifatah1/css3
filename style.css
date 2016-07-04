@@ -1,0 +1,67 @@
+body{
+  margin: 0 0 0 0;
+  margin-top: -2%;
+}
+       /*header*/
+header{
+  text-align: center;
+  color: #EB691E;
+  background:#F7EEDE;
+  width: 100%;
+  height:120px;
+  line-height: 100px;
+}
+       /*logo*/
+.logo{
+  width: 10%;
+  height:100px;
+  position: absolute;
+  left: 2%;
+  top: 1%;
+}
+    /*left side table*/
+
+    .selectors{
+      float: left;
+      width: 48%;
+
+    }
+
+            /*rightside*/
+
+    .text{
+      float: right;
+      width: 48%;
+
+    }
+
+    /*box model photo*/
+
+.box_model{
+    width:45%;
+    width:40%;
+    float: left;
+}
+
+.border{
+  float: right;
+  width: 48%;
+  margin-top: 1%;
+
+}
+
+
+
+td{
+  padding:0.35%;
+  background: #F7EEDE;
+  font-size:1.5em;
+
+}
+       /*the caption insie the table*/
+caption{
+  background:#CF7A29;
+  font-size:2em;
+  text-align: center;
+
+}
